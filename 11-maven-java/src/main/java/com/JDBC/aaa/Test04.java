@@ -1,6 +1,6 @@
 package com.JDBC.aaa;
 
-import com.JDBC.JBDCUtil.JBUtil;
+import com.JDBC.JDBCUtil.JBUtil;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
